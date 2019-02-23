@@ -5,3 +5,6 @@ From  Tobias van Dyk.
 Because lm_sensors does not support the Winbond monitor chip (uGuru) used on some Abit motherboards here is a gkrellm plugin that provides some of the monitoring functions 
 
 Note that Hans De Goede wrote an Uguru kernel module during 2006
+
+See: http://gkrellm.srcbox.net/Plugins.html
+
