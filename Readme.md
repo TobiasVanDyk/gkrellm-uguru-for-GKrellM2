@@ -46,7 +46,7 @@ Note that in order to run this plugin without a segfault from GKrellM2, you’re
 
 <br>
 <p align="center">
-<img src="Thinkblog.png" width="940" />  
+<img src="Thinkblog.png" width="800" />  
 <br>
 
 
