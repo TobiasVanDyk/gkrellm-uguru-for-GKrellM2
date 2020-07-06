@@ -12,7 +12,7 @@ https://github.com/billw2/billw2.github.io
 
 http://gkrellm.srcbox.net/Plugins.html
 
-To add to this blast from the past here is an image dump of the now sadly demised thinkblog.org of 14 July 2006 to 4 April 2006. I addition to the mention of my uguru plug-in this page captures a few other much more noteworhy events such as:
+To add to this blast from the past here is an image dump of the now sadly demised thinkblog.org of 14 July 2006 to 4 April 2006. I addition to the mention of my uguru plug-in this page captures a few other much more noteworthy events such as:
 
 ### 01 June 2006
 ### Ubuntu 6.06 Released
