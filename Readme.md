@@ -23,8 +23,7 @@ Happy installs!
 
 ### 19 June 2006
 ### Bill Gates Stepping Down
-22:53:18 BillG Young 
-Most of you who follow this sort of thing know by now that Bill Gates is reversing his roles between Microsoft and the Bill & Melinda Gates Foundation; in his words, “Right now and for the next two years, my full-time job is here at Microsoft, and my part-time job remains the Foundation. Beginning in July 2008, I will switch that, to be full-time at the Foundation, while remaining involved with Microsoft as Chairman and an advisor on key development projects on a part-time basis.”
+22:53:18 Most of you who follow this sort of thing know by now that Bill Gates is reversing his roles between Microsoft and the Bill & Melinda Gates Foundation; in his words, “Right now and for the next two years, my full-time job is here at Microsoft, and my part-time job remains the Foundation. Beginning in July 2008, I will switch that, to be full-time at the Foundation, while remaining involved with Microsoft as Chairman and an advisor on key development projects on a part-time basis.”
 NeoWin.net has the full email, which is echoed in blockquote at the end of this article (if you’re on the main page, click “more…” at the bottom of the post).
 
 ### 04 April 2006
