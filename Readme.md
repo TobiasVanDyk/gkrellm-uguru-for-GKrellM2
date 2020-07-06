@@ -39,7 +39,7 @@ When compiling, if you’re on an x86_64 machine like I am, you’re going to ne
 
 <br>
 <p align="center">
-<img src="Thinkblog.png" width="980" />  
+<img src="Thinkblog1.png" width="980" />  
 <br>
 
 
