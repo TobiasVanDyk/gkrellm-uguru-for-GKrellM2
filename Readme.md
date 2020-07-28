@@ -1,8 +1,7 @@
 # gkrellm-uguru for GKrellM2  
 
-From  Tobias van Dyk.  
-2005:
-Because lm_sensors does not support the Winbond monitor chip (uGuru) used on some Abit motherboards here is a gkrellm plugin that provides some of the monitoring functions 
+ 
+2005: Because lm_sensors did not want to support the Winbond monitor chip (closed-source uGuru) used on some Abit motherboards I made a a gkrellm plugin that provides some of the monitoring functions. 
 
 Note that Hans De Goede wrote an Uguru kernel module during 2006
 
