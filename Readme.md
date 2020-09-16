@@ -1,7 +1,7 @@
 # gkrellm-uguru for GKrellM2  
 
  
-2005: Because lm_sensors did not want to support the Winbond monitor chip (closed-source uGuru) used on some Abit motherboards I made a a gkrellm plugin that provides some of the monitoring functions. 
+2005: Because lm_sensors did not want to support the Winbond monitor chip (closed-source uGuru) used on some Abit motherboards I made a a gkrellm plugin that provides some of the monitoring functions. This is an eternal problem - see September 2020 [**Android and Linux get into sync**](https://www.hpe.com/us/en/insights/articles/what-s-new-in-the-linux-kernel-2009.html), the last paragraph.
 
 Note that Hans De Goede wrote an Uguru kernel module during 2006
 
