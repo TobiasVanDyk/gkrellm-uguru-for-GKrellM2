@@ -1,17 +1,32 @@
 Android and Linux get into sync
 
-Everyone who pays attention to operating systems knows that Android is a mobile-specialized Linux distribution. What may not be known is that, for many years, Android was a Linux fork. Even now, 10 years after Android and core Linux developers started to work and play nicely with each other again, they're not quite on the same page. That's changing.
+Everyone who pays attention to operating systems knows that Android is a mobile-specialized Linux distribution. What may not be known is that,
+for many years, Android was a Linux fork. Even now, 10 years after Android and core Linux developers started to work and play nicely with each
+other again, they're not quite on the same page. That's changing.
 
-As Jonathan Corbet, Linux kernel developer and writer, said in his annual Linux Kernel Report, the "latest stable kernel is on its way to becoming part of the Android generic system image, then they will track the stable updates. This will mean they're much closer to the current state of the art."
+As Jonathan Corbet, Linux kernel developer and writer, said in his annual Linux Kernel Report, the "latest stable kernel is on its way to
+becoming part of the Android generic system image, then they will track the stable updates. This will mean they're much closer to the current
+state of the art."
 
 That may not sound like a big deal to you, but it is.
 
-Here's why. Today, before Linux ends up on that shiny new Android phone in your hand, it goes through three separate, time-consuming stages. First, Google takes a Long Term Support (LTS) kernel and adds in Android-specific code to make the Android common kernel. Next, Google ships that Android common kernel to a system-on-a-chip (SoC) manufacturer, such as Qualcomm. The OEM then customizes the kernel to a specific SoC and chipset. Finally, the SoC kernel goes to the smartphone manufacturer. The manufacturer, in turn, adds its home brew, proprietary drivers for the display, camera, and Wi-Fi/cellular modem. This device kernel is what's on your phone.
+Here's why. Today, before Linux ends up on that shiny new Android phone in your hand, it goes through three separate, time-consuming stages.
+First, Google takes a Long Term Support (LTS) kernel and adds in Android-specific code to make the Android common kernel. Next, Google ships
+that Android common kernel to a system-on-a-chip (SoC) manufacturer, such as Qualcomm. The OEM then customizes the kernel to a specific SoC
+and chipset. Finally, the SoC kernel goes to the smartphone manufacturer. The manufacturer, in turn, adds its home brew, proprietary drivers
+for the display, camera, and Wi-Fi/cellular modem. This device kernel is what's on your phone.
 
-Along the way, every phone picks up literally millions of lines of kernel code not part of the standard distribution. Most of this is device drivers. Each smartphone or Android tablet comes with its own blend of drivers. That's why making a true universal Android smartphone distribution, such as the /e/ operating system, is so hard. The result? That sharp new phone in your pocket has a 2-year-old Linux kernel. It's because of these ancient kernels that Linux LTS kernels now come with six years of support.
+Along the way, every phone picks up literally millions of lines of kernel code not part of the standard distribution. Most of this is device
+drivers. Each smartphone or Android tablet comes with its own blend of drivers. That's why making a true universal Android smartphone
+distribution, such as the /e/ operating system, is so hard. The result? That sharp new phone in your pocket has a 2-year-old Linux kernel.
+It's because of these ancient kernels that Linux LTS kernels now come with six years of support.
 
-Google and the vendors are no more eager than you would be to backport security patches to dusty, old kernels. So Google, along with the developer community, is trying to bring the shipping versions of Android in line with mainline, current Linux kernels.
+Google and the vendors are no more eager than you would be to backport security patches to dusty, old kernels. So Google, along with the
+developer community, is trying to bring the shipping versions of Android in line with mainline, current Linux kernels.
 
-This is going to take a while. A pair of eternal Android problems—the refusal of Linux developers to support a stable application binary interface (ABI) and the equally firm refusal of hardware vendors to open source their drivers—are still with us for the time being. An ABI defines how a program works with hardware when you don't know how to work with it at an application code level. Open source developers want to work at an API level, while vendors all too often want to keep their devices mysterious black boxes that can be reached only by an ABI. Despite this, we're finally closer to speeding up the integration of Linux in the Android production pipeline. This means Android will be more secure out of the box.
-
-https://www.hpe.com/us/en/insights/articles/what-s-new-in-the-linux-kernel-2009.html
+This is going to take a while. A pair of eternal Android problems - the refusal of Linux developers to support a stable application binary
+interface (ABI) and the equally firm refusal of hardware vendors to open source their drivers are still with us for the time being. An ABI
+defines how a program works with hardware when you don't know how to work with it at an application code level. Open source developers want to
+work at an API level, while vendors all too often want to keep their devices mysterious black boxes that can be reached only by an ABI.
+Despite this, we're finally closer to speeding up the integration of Linux in the Android production pipeline. This means Android will be more
+secure out of the box.
